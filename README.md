@@ -1,0 +1,2 @@
+# python
+Buat latihan python
